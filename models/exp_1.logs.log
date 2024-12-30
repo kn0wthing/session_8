@@ -1,0 +1,500 @@
+Epoch=1 Batch=390 loss=1.5286952 Accuracy=30.67%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.16it/s]
+
+Test set: Average loss: 0.0132488, Accuracy: 3993/10000 (39.93%)
+
+Learning rate: 0.1
+Epoch=2 Batch=390 loss=1.4981482 Accuracy=43.13%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.48it/s]
+
+Test set: Average loss: 0.0108753, Accuracy: 4948/10000 (49.48%)
+
+Learning rate: 0.1
+Epoch=3 Batch=390 loss=1.4113302 Accuracy=47.44%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.70it/s]
+
+Test set: Average loss: 0.0095502, Accuracy: 5614/10000 (56.14%)
+
+Learning rate: 0.1
+Epoch=4 Batch=390 loss=1.1949608 Accuracy=51.05%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 15.01it/s]
+
+Test set: Average loss: 0.0103987, Accuracy: 5449/10000 (54.49%)
+
+Learning rate: 0.1
+Epoch=5 Batch=390 loss=1.6469624 Accuracy=53.52%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.89it/s]
+
+Test set: Average loss: 0.0081657, Accuracy: 6295/10000 (62.95%)
+
+Learning rate: 0.1
+Epoch=6 Batch=390 loss=0.9605575 Accuracy=56.28%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.74it/s]
+
+Test set: Average loss: 0.0085677, Accuracy: 6156/10000 (61.56%)
+
+Learning rate: 0.1
+Epoch=7 Batch=390 loss=1.0703994 Accuracy=58.42%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.19it/s]
+
+Test set: Average loss: 0.0072342, Accuracy: 6729/10000 (67.29%)
+
+Learning rate: 0.1
+Epoch=8 Batch=390 loss=1.1245687 Accuracy=60.08%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.25it/s]
+
+Test set: Average loss: 0.0073689, Accuracy: 6692/10000 (66.92%)
+
+Learning rate: 0.1
+Epoch=9 Batch=390 loss=1.3703113 Accuracy=61.95%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.09it/s]
+
+Test set: Average loss: 0.0065508, Accuracy: 7075/10000 (70.75%)
+
+Learning rate: 0.1
+Epoch=10 Batch=390 loss=0.9551813 Accuracy=62.46%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 13.99it/s]
+
+Test set: Average loss: 0.0065853, Accuracy: 7105/10000 (71.05%)
+
+Learning rate: 0.1
+Epoch=11 Batch=390 loss=0.9560611 Accuracy=64.04%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.05it/s]
+
+Test set: Average loss: 0.0061829, Accuracy: 7212/10000 (72.12%)
+
+Learning rate: 0.1
+Epoch=12 Batch=390 loss=0.9774119 Accuracy=65.03%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.09it/s]
+
+Test set: Average loss: 0.0058611, Accuracy: 7375/10000 (73.75%)
+
+Learning rate: 0.1
+Epoch=13 Batch=390 loss=0.9535478 Accuracy=65.96%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.28it/s]
+
+Test set: Average loss: 0.0057789, Accuracy: 7471/10000 (74.71%)
+
+Learning rate: 0.1
+Epoch=14 Batch=390 loss=0.9118514 Accuracy=66.69%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.75it/s]
+
+Test set: Average loss: 0.0056911, Accuracy: 7484/10000 (74.84%)
+
+Learning rate: 0.1
+Epoch=15 Batch=390 loss=1.0595005 Accuracy=67.29%: 100%|██████████████████████████████| 391/391 [00:25<00:00, 15.06it/s]
+
+Test set: Average loss: 0.0054549, Accuracy: 7575/10000 (75.75%)
+
+Learning rate: 0.1
+Epoch=16 Batch=390 loss=0.7402949 Accuracy=68.00%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.88it/s]
+
+Test set: Average loss: 0.0052936, Accuracy: 7658/10000 (76.58%)
+
+Learning rate: 0.1
+Epoch=17 Batch=390 loss=0.7753801 Accuracy=68.74%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.79it/s]
+
+Test set: Average loss: 0.0051572, Accuracy: 7700/10000 (77.00%)
+
+Learning rate: 0.1
+Epoch=18 Batch=390 loss=0.9836162 Accuracy=69.25%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.85it/s]
+
+Test set: Average loss: 0.0051607, Accuracy: 7698/10000 (76.98%)
+
+Learning rate: 0.1
+Epoch=19 Batch=390 loss=0.9804459 Accuracy=69.50%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 15.01it/s]
+
+Test set: Average loss: 0.0049058, Accuracy: 7890/10000 (78.90%)
+
+Learning rate: 0.1
+Epoch=20 Batch=390 loss=0.8426713 Accuracy=69.92%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 15.01it/s]
+
+Test set: Average loss: 0.0048909, Accuracy: 7888/10000 (78.88%)
+
+Learning rate: 0.1
+Epoch=21 Batch=390 loss=0.8088495 Accuracy=70.66%: 100%|██████████████████████████████| 391/391 [00:25<00:00, 15.10it/s]
+
+Test set: Average loss: 0.0046507, Accuracy: 7930/10000 (79.30%)
+
+Learning rate: 0.1
+Epoch=22 Batch=390 loss=0.8683721 Accuracy=70.52%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.95it/s]
+
+Test set: Average loss: 0.0047712, Accuracy: 7938/10000 (79.38%)
+
+Learning rate: 0.1
+Epoch=23 Batch=390 loss=0.9137467 Accuracy=71.47%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.53it/s]
+
+Test set: Average loss: 0.0044946, Accuracy: 8034/10000 (80.34%)
+
+Learning rate: 0.1
+Epoch=24 Batch=390 loss=0.7351093 Accuracy=71.60%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.23it/s]
+
+Test set: Average loss: 0.0045987, Accuracy: 7998/10000 (79.98%)
+
+Learning rate: 0.1
+Epoch=25 Batch=390 loss=0.8899848 Accuracy=71.83%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.17it/s]
+
+Test set: Average loss: 0.0046326, Accuracy: 8006/10000 (80.06%)
+
+Learning rate: 0.1
+Epoch=26 Batch=390 loss=0.8765685 Accuracy=71.93%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.15it/s]
+
+Test set: Average loss: 0.0043510, Accuracy: 8074/10000 (80.74%)
+
+Learning rate: 0.1
+Epoch=27 Batch=390 loss=0.7402136 Accuracy=72.42%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.01it/s]
+
+Test set: Average loss: 0.0042804, Accuracy: 8115/10000 (81.15%)
+
+Learning rate: 0.1
+Epoch=28 Batch=390 loss=0.7011164 Accuracy=72.87%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.11it/s]
+
+Test set: Average loss: 0.0042615, Accuracy: 8139/10000 (81.39%)
+
+Learning rate: 0.1
+Epoch=29 Batch=390 loss=0.8595813 Accuracy=72.75%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.71it/s]
+
+Test set: Average loss: 0.0042664, Accuracy: 8153/10000 (81.53%)
+
+Learning rate: 0.1
+Epoch=30 Batch=390 loss=0.9947423 Accuracy=73.26%: 100%|██████████████████████████████| 391/391 [00:25<00:00, 15.11it/s]
+
+Test set: Average loss: 0.0042991, Accuracy: 8180/10000 (81.80%)
+
+Learning rate: 0.1
+Epoch=31 Batch=390 loss=0.8451015 Accuracy=73.56%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 15.00it/s]
+
+Test set: Average loss: 0.0041921, Accuracy: 8123/10000 (81.23%)
+
+Learning rate: 0.1
+Epoch=32 Batch=390 loss=0.8256113 Accuracy=73.78%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 15.00it/s]
+
+Test set: Average loss: 0.0042145, Accuracy: 8188/10000 (81.88%)
+
+Learning rate: 0.1
+Epoch=33 Batch=390 loss=0.8276518 Accuracy=74.08%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.84it/s]
+
+Test set: Average loss: 0.0041208, Accuracy: 8203/10000 (82.03%)
+
+Learning rate: 0.1
+Epoch=34 Batch=390 loss=0.7374102 Accuracy=74.12%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.37it/s]
+
+Test set: Average loss: 0.0040046, Accuracy: 8232/10000 (82.32%)
+
+Learning rate: 0.1
+Epoch=35 Batch=390 loss=0.6629356 Accuracy=74.45%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.11it/s]
+
+Test set: Average loss: 0.0041329, Accuracy: 8208/10000 (82.08%)
+
+Learning rate: 0.1
+Epoch=36 Batch=390 loss=0.6440269 Accuracy=74.57%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 13.99it/s]
+
+Test set: Average loss: 0.0039182, Accuracy: 8279/10000 (82.79%)
+
+Learning rate: 0.1
+Epoch=37 Batch=390 loss=0.9106067 Accuracy=74.72%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.04it/s]
+
+Test set: Average loss: 0.0037573, Accuracy: 8336/10000 (83.36%)
+
+Learning rate: 0.1
+Epoch=38 Batch=390 loss=0.5915443 Accuracy=74.78%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.13it/s]
+
+Test set: Average loss: 0.0039477, Accuracy: 8289/10000 (82.89%)
+
+Learning rate: 0.1
+Epoch=39 Batch=390 loss=0.6413307 Accuracy=75.16%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.16it/s]
+
+Test set: Average loss: 0.0037182, Accuracy: 8360/10000 (83.60%)
+
+Learning rate: 0.1
+Epoch=40 Batch=390 loss=0.7517956 Accuracy=75.22%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.62it/s]
+
+Test set: Average loss: 0.0038672, Accuracy: 8336/10000 (83.36%)
+
+Learning rate: 0.1
+Epoch=41 Batch=390 loss=0.7536686 Accuracy=75.27%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 15.00it/s]
+
+Test set: Average loss: 0.0036809, Accuracy: 8388/10000 (83.88%)
+
+Learning rate: 0.1
+Epoch=42 Batch=390 loss=0.7276618 Accuracy=75.87%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.99it/s]
+
+Test set: Average loss: 0.0037037, Accuracy: 8393/10000 (83.93%)
+
+Learning rate: 0.1
+Epoch=43 Batch=390 loss=0.4967290 Accuracy=75.77%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.95it/s]
+
+Test set: Average loss: 0.0038717, Accuracy: 8276/10000 (82.76%)
+
+Learning rate: 0.1
+Epoch=44 Batch=390 loss=0.5996193 Accuracy=75.94%: 100%|██████████████████████████████| 391/391 [00:25<00:00, 15.07it/s]
+
+Test set: Average loss: 0.0035596, Accuracy: 8449/10000 (84.49%)
+
+Learning rate: 0.1
+Epoch=45 Batch=390 loss=0.7483687 Accuracy=76.44%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.45it/s]
+
+Test set: Average loss: 0.0038567, Accuracy: 8338/10000 (83.38%)
+
+Learning rate: 0.1
+Epoch=46 Batch=390 loss=0.4779534 Accuracy=76.49%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.17it/s]
+
+Test set: Average loss: 0.0035663, Accuracy: 8448/10000 (84.48%)
+
+Learning rate: 0.1
+Epoch=47 Batch=390 loss=0.6339945 Accuracy=76.29%: 100%|██████████████████████████████| 391/391 [00:28<00:00, 13.93it/s]
+
+Test set: Average loss: 0.0035964, Accuracy: 8436/10000 (84.36%)
+
+Learning rate: 0.1
+Epoch=48 Batch=390 loss=0.7312837 Accuracy=76.61%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.00it/s]
+
+Test set: Average loss: 0.0038224, Accuracy: 8328/10000 (83.28%)
+
+Learning rate: 0.1
+Epoch=49 Batch=390 loss=0.7420601 Accuracy=76.62%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.00it/s]
+
+Test set: Average loss: 0.0036853, Accuracy: 8390/10000 (83.90%)
+
+Learning rate: 0.1
+Epoch=50 Batch=390 loss=0.6478394 Accuracy=76.78%: 100%|██████████████████████████████| 391/391 [00:28<00:00, 13.86it/s]
+
+Test set: Average loss: 0.0036527, Accuracy: 8400/10000 (84.00%)
+
+Learning rate: 0.010000000000000002
+Epoch=51 Batch=390 loss=0.6627579 Accuracy=78.49%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 13.97it/s]
+
+Test set: Average loss: 0.0032314, Accuracy: 8590/10000 (85.90%)
+
+Learning rate: 0.010000000000000002
+Epoch=52 Batch=390 loss=0.4316989 Accuracy=78.93%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.42it/s]
+
+Test set: Average loss: 0.0031457, Accuracy: 8616/10000 (86.16%)
+
+Learning rate: 0.010000000000000002
+Epoch=53 Batch=390 loss=0.7004902 Accuracy=79.19%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.59it/s]
+
+Test set: Average loss: 0.0031064, Accuracy: 8640/10000 (86.40%)
+
+Learning rate: 0.010000000000000002
+Epoch=54 Batch=390 loss=0.6104151 Accuracy=79.53%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.62it/s]
+
+Test set: Average loss: 0.0031462, Accuracy: 8638/10000 (86.38%)
+
+Learning rate: 0.010000000000000002
+Epoch=55 Batch=390 loss=0.5115989 Accuracy=79.30%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.76it/s]
+
+Test set: Average loss: 0.0031550, Accuracy: 8632/10000 (86.32%)
+
+Learning rate: 0.010000000000000002
+Epoch=56 Batch=390 loss=0.4979102 Accuracy=79.58%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.75it/s]
+
+Test set: Average loss: 0.0031306, Accuracy: 8658/10000 (86.58%)
+
+Learning rate: 0.010000000000000002
+Epoch=57 Batch=390 loss=0.5316612 Accuracy=79.70%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.65it/s]
+
+Test set: Average loss: 0.0031234, Accuracy: 8647/10000 (86.47%)
+
+Learning rate: 0.010000000000000002
+Epoch=58 Batch=390 loss=0.7141773 Accuracy=79.66%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.94it/s]
+
+Test set: Average loss: 0.0030473, Accuracy: 8670/10000 (86.70%)
+
+Learning rate: 0.010000000000000002
+Epoch=59 Batch=390 loss=0.6202804 Accuracy=79.79%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.99it/s]
+
+Test set: Average loss: 0.0031284, Accuracy: 8653/10000 (86.53%)
+
+Learning rate: 0.010000000000000002
+Epoch=60 Batch=390 loss=0.8822407 Accuracy=79.44%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.51it/s]
+
+Test set: Average loss: 0.0031584, Accuracy: 8636/10000 (86.36%)
+
+Learning rate: 0.010000000000000002
+Epoch=61 Batch=390 loss=0.7229221 Accuracy=79.86%: 100%|██████████████████████████████| 391/391 [00:28<00:00, 13.95it/s]
+
+Test set: Average loss: 0.0030540, Accuracy: 8663/10000 (86.63%)
+
+Learning rate: 0.010000000000000002
+Epoch=62 Batch=390 loss=0.4750324 Accuracy=80.01%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.05it/s]
+
+Test set: Average loss: 0.0030886, Accuracy: 8671/10000 (86.71%)
+
+Learning rate: 0.010000000000000002
+Epoch=63 Batch=390 loss=0.4682167 Accuracy=79.64%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.07it/s]
+
+Test set: Average loss: 0.0030933, Accuracy: 8662/10000 (86.62%)
+
+Learning rate: 0.010000000000000002
+Epoch=64 Batch=390 loss=0.4299574 Accuracy=79.91%: 100%|██████████████████████████████| 391/391 [00:28<00:00, 13.87it/s]
+
+Test set: Average loss: 0.0030384, Accuracy: 8682/10000 (86.82%)
+
+Learning rate: 0.010000000000000002
+Epoch=65 Batch=390 loss=0.5796021 Accuracy=79.83%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.16it/s]
+
+Test set: Average loss: 0.0030929, Accuracy: 8643/10000 (86.43%)
+
+Learning rate: 0.010000000000000002
+Epoch=66 Batch=390 loss=0.5580322 Accuracy=80.07%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.18it/s]
+
+Test set: Average loss: 0.0030701, Accuracy: 8669/10000 (86.69%)
+
+Learning rate: 0.010000000000000002
+Epoch=67 Batch=390 loss=0.5353819 Accuracy=80.12%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.54it/s]
+
+Test set: Average loss: 0.0031174, Accuracy: 8679/10000 (86.79%)
+
+Learning rate: 0.010000000000000002
+Epoch=68 Batch=390 loss=0.4090971 Accuracy=80.04%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.80it/s]
+
+Test set: Average loss: 0.0030521, Accuracy: 8684/10000 (86.84%)
+
+Learning rate: 0.010000000000000002
+Epoch=69 Batch=390 loss=0.6430822 Accuracy=80.15%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.80it/s]
+
+Test set: Average loss: 0.0030344, Accuracy: 8683/10000 (86.83%)
+
+Learning rate: 0.010000000000000002
+Epoch=70 Batch=390 loss=0.6809424 Accuracy=80.14%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.89it/s]
+
+Test set: Average loss: 0.0030060, Accuracy: 8683/10000 (86.83%)
+
+Learning rate: 0.010000000000000002
+Epoch=71 Batch=390 loss=0.5414319 Accuracy=80.07%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.83it/s]
+
+Test set: Average loss: 0.0030403, Accuracy: 8669/10000 (86.69%)
+
+Learning rate: 0.010000000000000002
+Epoch=72 Batch=390 loss=0.3776653 Accuracy=80.31%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.87it/s]
+
+Test set: Average loss: 0.0029812, Accuracy: 8718/10000 (87.18%)
+
+Learning rate: 0.010000000000000002
+Epoch=73 Batch=390 loss=0.6855630 Accuracy=80.27%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.26it/s]
+
+Test set: Average loss: 0.0029866, Accuracy: 8688/10000 (86.88%)
+
+Learning rate: 0.010000000000000002
+Epoch=74 Batch=390 loss=0.8263446 Accuracy=80.41%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.00it/s]
+
+Test set: Average loss: 0.0029988, Accuracy: 8699/10000 (86.99%)
+
+Learning rate: 0.010000000000000002
+Epoch=75 Batch=390 loss=0.4940516 Accuracy=79.91%: 100%|██████████████████████████████| 391/391 [00:28<00:00, 13.78it/s]
+
+Test set: Average loss: 0.0030665, Accuracy: 8672/10000 (86.72%)
+
+Learning rate: 0.010000000000000002
+Epoch=76 Batch=390 loss=0.7296785 Accuracy=80.34%: 100%|██████████████████████████████| 391/391 [00:28<00:00, 13.92it/s]
+
+Test set: Average loss: 0.0029811, Accuracy: 8719/10000 (87.19%)
+
+Learning rate: 0.010000000000000002
+Epoch=77 Batch=390 loss=0.4258966 Accuracy=80.09%: 100%|██████████████████████████████| 391/391 [00:28<00:00, 13.95it/s]
+
+Test set: Average loss: 0.0030279, Accuracy: 8699/10000 (86.99%)
+
+Learning rate: 0.010000000000000002
+Epoch=78 Batch=390 loss=0.6036212 Accuracy=80.43%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.04it/s]
+
+Test set: Average loss: 0.0030345, Accuracy: 8685/10000 (86.85%)
+
+Learning rate: 0.0010000000000000002
+Epoch=79 Batch=390 loss=0.3986674 Accuracy=80.41%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.38it/s]
+
+Test set: Average loss: 0.0030036, Accuracy: 8688/10000 (86.88%)
+
+Learning rate: 0.0010000000000000002
+Epoch=80 Batch=390 loss=0.5668190 Accuracy=80.80%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.53it/s]
+
+Test set: Average loss: 0.0029876, Accuracy: 8706/10000 (87.06%)
+
+Learning rate: 0.0010000000000000002
+Epoch=81 Batch=390 loss=0.7099521 Accuracy=80.68%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.73it/s]
+
+Test set: Average loss: 0.0030412, Accuracy: 8703/10000 (87.03%)
+
+Learning rate: 0.0010000000000000002
+Epoch=82 Batch=390 loss=0.5316744 Accuracy=80.84%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.58it/s]
+
+Test set: Average loss: 0.0029763, Accuracy: 8708/10000 (87.08%)
+
+Learning rate: 0.0010000000000000002
+Epoch=83 Batch=390 loss=0.6030746 Accuracy=80.60%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.60it/s]
+
+Test set: Average loss: 0.0030321, Accuracy: 8687/10000 (86.87%)
+
+Learning rate: 0.0010000000000000002
+Epoch=84 Batch=390 loss=0.5689611 Accuracy=80.63%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.54it/s]
+
+Test set: Average loss: 0.0029854, Accuracy: 8700/10000 (87.00%)
+
+Learning rate: 0.0010000000000000002
+Epoch=85 Batch=390 loss=0.4954256 Accuracy=80.68%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.37it/s]
+
+Test set: Average loss: 0.0030300, Accuracy: 8705/10000 (87.05%)
+
+Learning rate: 0.0010000000000000002
+Epoch=86 Batch=390 loss=0.6630207 Accuracy=80.70%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.06it/s]
+
+Test set: Average loss: 0.0029658, Accuracy: 8705/10000 (87.05%)
+
+Learning rate: 0.0010000000000000002
+Epoch=87 Batch=390 loss=0.4940189 Accuracy=80.71%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.67it/s]
+
+Test set: Average loss: 0.0029856, Accuracy: 8705/10000 (87.05%)
+
+Learning rate: 0.0010000000000000002
+Epoch=88 Batch=390 loss=0.6336454 Accuracy=80.68%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.38it/s]
+
+Test set: Average loss: 0.0030211, Accuracy: 8694/10000 (86.94%)
+
+Learning rate: 0.0010000000000000002
+Epoch=89 Batch=390 loss=0.6240795 Accuracy=80.70%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.02it/s]
+
+Test set: Average loss: 0.0029960, Accuracy: 8711/10000 (87.11%)
+
+Learning rate: 0.0010000000000000002
+Epoch=90 Batch=390 loss=0.5835835 Accuracy=80.65%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.23it/s]
+
+Test set: Average loss: 0.0030399, Accuracy: 8703/10000 (87.03%)
+
+Learning rate: 0.0010000000000000002
+Epoch=91 Batch=390 loss=0.6992279 Accuracy=80.64%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.35it/s]
+
+Test set: Average loss: 0.0029705, Accuracy: 8708/10000 (87.08%)
+
+Learning rate: 0.0010000000000000002
+Epoch=92 Batch=390 loss=0.5205423 Accuracy=80.61%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.29it/s]
+
+Test set: Average loss: 0.0029558, Accuracy: 8720/10000 (87.20%)
+
+Learning rate: 0.0010000000000000002
+Epoch=93 Batch=390 loss=0.4693207 Accuracy=80.77%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.16it/s]
+
+Test set: Average loss: 0.0029756, Accuracy: 8717/10000 (87.17%)
+
+Learning rate: 0.0010000000000000002
+Epoch=94 Batch=390 loss=0.6580342 Accuracy=80.41%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.30it/s]
+
+Test set: Average loss: 0.0030020, Accuracy: 8707/10000 (87.07%)
+
+Learning rate: 0.0010000000000000002
+Epoch=95 Batch=390 loss=0.4599359 Accuracy=80.58%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.33it/s]
+
+Test set: Average loss: 0.0030409, Accuracy: 8698/10000 (86.98%)
+
+Learning rate: 0.0010000000000000002
+Epoch=96 Batch=390 loss=0.6572752 Accuracy=80.74%: 100%|██████████████████████████████| 391/391 [00:27<00:00, 14.42it/s]
+
+Test set: Average loss: 0.0030368, Accuracy: 8688/10000 (86.88%)
+
+Learning rate: 0.0010000000000000002
+Epoch=97 Batch=390 loss=0.4518663 Accuracy=80.94%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.54it/s]
+
+Test set: Average loss: 0.0029860, Accuracy: 8697/10000 (86.97%)
+
+Learning rate: 0.0010000000000000002
+Epoch=98 Batch=390 loss=0.7850609 Accuracy=80.60%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.93it/s]
+
+Test set: Average loss: 0.0030249, Accuracy: 8713/10000 (87.13%)
+
+Learning rate: 0.0010000000000000002
+Epoch=99 Batch=390 loss=0.5236786 Accuracy=80.94%: 100%|██████████████████████████████| 391/391 [00:26<00:00, 14.72it/s]
+
+Test set: Average loss: 0.0030409, Accuracy: 8705/10000 (87.05%)
+
+Learning rate: 0.0010000000000000002
+Epoch=100 Batch=390 loss=0.4950565 Accuracy=80.95%: 100%|██████████████████████████████| 391/391 [00:30<00:00, 12.81it/s]
+
+Test set: Average loss: 0.0029755, Accuracy: 8727/10000 (87.27%)
+
+Learning rate: 0.0010000000000000002
